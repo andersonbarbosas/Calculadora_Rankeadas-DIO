@@ -14,7 +14,8 @@ O programa solicita ao usuário que insira o número médio de partidas vencidas
 ## Como Usar
 
 1. Clone o repositório para sua máquina local.
-2. Execute o script usando o Node.js.
+2. Run `npm install prompt-sync` no terminal
+3. Execute o script usando o Node.js.
 
 ```bash
 script.js
